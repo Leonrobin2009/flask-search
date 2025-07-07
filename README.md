@@ -25,7 +25,7 @@ Compatible with all Android 6.0+ phones.
 
 ## 📲 Download LeCore Android App
 
-📦 [⬇ Click here to download the latest APK](https://github.com/Leonrobin2009/lecore-app/releases/latest)
+📦 [⬇ Click here to download the latest APK](https://github.com/Leonrobin2009/flask-search/releases/tag/release-2025-07-06)
 
 ✅ **Compatible with Android 6.0 (Marshmallow)** and above  
 🔒 Requires only **Internet permission**
