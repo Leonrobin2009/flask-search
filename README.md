@@ -3,7 +3,7 @@
 ## 🔍 Download LeCore Android App
 LeCore is an AI-powered search assistant powered by LLaMA and real-time web results.
 
-📦 [Click here to download APK](https://github.com/Leonrobin2009/lecore-app/releases/latest)
+📦 [Click here to download APK](https://github.com/Leonrobin2009/flask-search/releases/tag/release-2025-07-06)
 
 Compatible with all Android 6.0+ phones.
 
